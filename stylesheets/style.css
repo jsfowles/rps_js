@@ -1,0 +1,17 @@
+html {
+  text-align: center;
+  background-color: gray;
+
+}
+
+.btn-prs {
+  width: 400px;
+  padding-top: 3%;
+}
+
+.winning {
+  color: red;
+}
+p {
+  font-size: 30px
+}
